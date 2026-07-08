@@ -52,10 +52,14 @@ python webcam_inference.py
 Press `q` to quit.
 
 ## Project structure
-├── fer_training.ipynb       # Full training pipeline
-├── webcam_inference.py      # Real-time webcam emotion detection
+
+```
+facial-expression-recognition/
+├── fer_training.ipynb
+├── webcam_inference.py
 ├── requirements.txt
 └── README.md
+```
 
 ## What I'd improve next
 
